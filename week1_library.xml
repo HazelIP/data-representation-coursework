@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+    <book catergory="Technical">
+        <ISBN>978-0197539200</ISBN>
+        <Title>The Essentials of Technical Communication</Title>
+        <Author>Elizabeth Tebeaux</Author>
+        <Author>Sam Dragga</Author>
+    </book>
+    <book catergory="Technical">
+        <ISBN>978-1319245009</ISBN>
+        <Title>Technical Communication</Title>
+        <Author>Stuart A.Selber</Author>
+        <Author>Mike Markel</Author>
+    </book>    
+    <book catergory="Cookery">
+        <ISBN>978-0-52-557588-7</ISBN>
+        <Title>Tasty by BuzzFeed Every Day Cookbook</Title>
+        <Author>Penguin Random House</Author>
+    </book>
+    <book catergory="Cookery">
+        <ISBN>978-0-5255-7590-0</ISBN>
+        <Title>Tasty Dessert</Title>
+        <Author>Penguin Random House</Author>
+    </book>
+</Library>
